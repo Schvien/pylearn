@@ -1,1 +1,1 @@
-# pylearn
+Notes for basic python learning
